@@ -16,8 +16,8 @@ This project focuses on translating a design mockup into a functional web page u
 ---
 
 ## 📂 Project Structure
-├── index.html        # Main HTML file<br>
-└── style.css         # Stylesheet
+├── index.html</t>       # Main HTML file<br>
+└── style.css</t>         # Stylesheet
 
 ---
 
